@@ -41,6 +41,8 @@ User: Tell me a joke
 Jarvis: Why do Java developers wear glasses? Because they don’t see sharp.
 
 ```
+---
+
 ⚙️ Usage
 1.Clone or download the repository
 
@@ -61,6 +63,8 @@ python "jarvis_voice_assistant.py"
 
 The assistant will listen, recognize your voice, and respond using text-to-speech.
 
+---
+
 🤝 Contributing
 Feel free to contribute to this project:
 
@@ -73,6 +77,9 @@ Commit your changes (git commit -m 'Add new feature')
 Push to the branch (git push origin your-feature)
 
 Open a pull request
+
+---
+
 
 📬 Contact
 Have questions or want to connect?
